@@ -24,7 +24,7 @@ Company name ──▶ Dataville ──┬─▶ Wikimedia: description, history
 
 ## 60-second quickstart
 
-No key is needed to try it (anonymous rate limits apply). Add `Authorization: Bearer $DATAVILLE_API_KEY` for full quota.
+No key is needed to try it (anonymous use allows 50 requests a day per IP address). Add `Authorization: Bearer $DATAVILLE_API_KEY` for full quota.
 
 ### cURL
 
