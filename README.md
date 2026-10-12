@@ -4,7 +4,7 @@
 
 Built on [Dataville](https://dataville.com): one API and one MCP server over both datasets, so you don't build or maintain ingestion, parsing, entity matching or update infrastructure for either.
 
-[Get an API key](https://app.dataville.com/api-keys) · [API docs](https://app.dataville.com) · [Dataville MCP](https://github.com/datavilleorg/dataville-mcp) · [Wikimedia package](https://github.com/datavilleorg/dataville-wikimedia) · [SEC EDGAR package](https://github.com/datavilleorg/dataville-sec-edgar)
+[Get a free API key](https://app.dataville.com/api-keys) · [Docs](https://docs.dataville.com) · [API reference](https://docs.dataville.com/api-reference/overview) · [Dataville MCP](https://github.com/datavilleorg/dataville-mcp) · [Wikimedia package](https://github.com/datavilleorg/dataville-wikimedia) · [SEC EDGAR package](https://github.com/datavilleorg/dataville-sec-edgar)
 
 > **Status: in active development.** The quickstart below runs today against the live Dataville API.
 > The full agent (entity resolution, LLM reasoning layer, UI) is being built in this repo — watch or star it to follow along.
@@ -108,6 +108,12 @@ Dataville handles that layer and gives you one consistent response shape: `title
 - [ ] Reasoning layer with per-claim source attribution
 - [ ] Web UI + live demo
 - [ ] Tests and `.env.example`-driven setup
+
+## Learn more
+
+- [Enrich an onboarding record with a company's filing and background](https://docs.dataville.com/guides/onboarding-enrichment): the same Wikimedia + EDGAR pairing, step by step
+- [Profile a client's competitors from Claude and Data Studio](https://docs.dataville.com/guides/competitor-scan)
+- [Quickstart: API](https://docs.dataville.com/quickstart) · [Connect an AI tool](https://docs.dataville.com/ai-tools) · [Response format](https://docs.dataville.com/response-format)
 
 ## Related
 
