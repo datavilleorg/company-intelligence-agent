@@ -4,7 +4,7 @@
 
 Built on [Dataville](https://dataville.com): one API and one MCP server over both datasets, so you don't build or maintain ingestion, parsing, entity matching or update infrastructure for either.
 
-[Get a free API key](https://app.dataville.com/api-keys) · [Docs](https://docs.dataville.com) · [API reference](https://docs.dataville.com/api-reference/overview) · [Dataville MCP](https://github.com/datavilleorg/dataville-mcp) · [Wikimedia package](https://github.com/datavilleorg/dataville-wikimedia) · [SEC EDGAR package](https://github.com/datavilleorg/dataville-sec-edgar)
+[Get a free API key](https://app.dataville.com/api-keys) · [Docs](https://docs.dataville.com) · [API reference](https://docs.dataville.com/api-reference/overview) · [Dataville MCP](https://github.com/datavilleorg/dataville-mcp) · [Wikimedia package](https://github.com/datavilleorg/dataville-wikimedia) · [SEC EDGAR package](https://github.com/datavilleorg/dataville-sec-edgar) · [Live demos](https://app.dataville.com/demos)
 
 > **Status: in active development.** The quickstart below runs today against the live Dataville API.
 > The full agent (entity resolution, LLM reasoning layer, UI) is being built in this repo — watch or star it to follow along.
